@@ -1,0 +1,8 @@
+
+
+html, body {background:url(../images/uc.png) center 160px no-repeat #222; color:#CCC;}
+section.socials {text-align:center; margin-top:650px;}
+a {text-decoration:none; display:inline-block; margin:0 5px;}
+a.twitter svg, a.insta svg, a.fb svg {fill:#FFF;}
+a:hover svg {fill:#55BF4E;}
+/*div.wrapper {display:flex; align-items:center; justify-content:center; height:100vh;}*/
